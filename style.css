@@ -13,3 +13,6 @@ body{
 background-color: var(--ciano);
 font-family: var(--texto);
 }
+header{
+  background-color: var(--preto) ;
+}
