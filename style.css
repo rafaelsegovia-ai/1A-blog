@@ -15,4 +15,5 @@ font-family: var(--texto);
 }
 header{
   background-color: var(--preto) ;
+  color: var(--branco);
 }
