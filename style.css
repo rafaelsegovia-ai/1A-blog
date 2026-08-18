@@ -16,4 +16,9 @@ font-family: var(--texto);
 header{
   background-color: var(--preto) ;
   color: var(--branco);
+  text-align: center;
+  padding: 20px;
+}
+.capa{
+  width: 100%;
 }
