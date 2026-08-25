@@ -22,3 +22,17 @@ header{
 .capa{
   width: 100%;
 }
+.caixa-conteudo{
+  margin: 20px;
+  border: 2px solid;
+  padding: 20px;
+  text-align: center;
+}
+.conteudo-titul{
+  font-family: var(--titulo);
+  font-size:  32px;
+  color: var(--gray)
+}
+.conteudo-texto{
+  margin: 40px 0;
+}
